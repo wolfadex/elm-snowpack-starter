@@ -1,0 +1,8 @@
+.DS_Store
+
+node_modules
+elm-stuff
+
+src/web_modules
+
+dist
