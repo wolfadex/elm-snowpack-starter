@@ -1,7 +1,6 @@
 {
   "installOptions": {
     "dest": "src/web_modules",
-    "clean": true,
-    "include": "src/**/*.js"
+    "clean": true
   }
 }
