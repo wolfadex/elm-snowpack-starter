@@ -7,7 +7,7 @@ A simple setup for making [Elm](https://elm-lang.org/) apps.
 ## Dev
 
 - run `git clone https://github.com/wolfadex/elm-snowpack-starter.git`
-- run `npm install` or `yarn` or `pnpm` 
+- run `npm install` or `yarn` or `pnpm install` 
 - run `npm run dev` or `yarn run dev` or `pnpm run dev` to start the dev server
 - a browser tab will open at `localhost:1234`
 - edit code and watch it update!
