@@ -4,5 +4,6 @@ node_modules
 elm-stuff
 
 src/web_modules
+src/elm.js
 
 dist
